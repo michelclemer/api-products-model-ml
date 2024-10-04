@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Gerencia",
+    "description": "Responsável por toda a empresa",
+    "slug": "gerencia"
+  },
+  {
+    "id": 2,
+    "name": "Gerencia Comercial",
+    "description": "Responsável pela área comercial",
+    "slug": "gerencia-comercial"
+  },
+  {
+    "id": 3,
+    "name": "Gerencia Logistica",
+    "description": "Responsável pela área logistica",
+    "slug": "gerencia-logistica"
+  },
+  {
+    "id": 4,
+    "name": "Supervisor Comercial",
+    "description": "Responsável por supervisionar a área comercial",
+    "slug": "supervisor-comercial"
+  },
+  {
+    "id": 5,
+    "name": "Supervisor Logistica",
+    "description": "Responsável por supervisionar a área logistica",
+    "slug": "supervisor-logistica"
+  },
+  {
+    "id": 6,
+    "name": "Vendedor Comercial",
+    "description": "Responsável por vender os produtos da empresa",
+    "slug": "vendedor-comercial"
+  },
+  {
+    "id": 7,
+    "name": "Operador Comercial",
+    "description": "Responsável por operar a logistica da empresa",
+    "slug": "operador-comercial"
+  },
+  {
+    "id": 8,
+    "name": "Motorista",
+    "description": "Responsável por dirigir os veiculos da empresa",
+    "slug": "motorista"
+  },
+  {
+    "id": 9,
+    "name": "Carregador",
+    "description": "Responsável por carregar os veiculos da empresa",
+    "slug": "carregador"
+  }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "id" : 1,
+        "permisson_name" :"create-route",
+        "permisson_description" : "Create a route"
+	},
+	{
+		"id" : 2,
+		"permisson_name" : "edit-route",
+		"permisson_description" : "Edit a route"
+	},
+	{
+		"id" : 3,
+		"permisson_name" : "start-route",
+		"permisson_description" : "Start a route"
+	},
+	{
+		"id" : 4,
+		"permisson_name" : "approve-route",
+		"permisson_description" : "Approve a route"
+	},
+	{
+		"id" : 5,
+		"permisson_name" : "finish-route",
+		"permisson_description" : "Finish a route"
+	},
+	{
+		"id" : 6,
+		"permisson_name" : "create-delivery",
+		"permisson_description" : "Create a delivery"
+	},
+	{
+		"id" : 7,
+		"permisson_name" : "edit-delivery",
+		"permisson_description" : "Edit a delivery"
+	},
+	{
+		"id" : 8,
+		"permisson_name" : "refuse-delivery",
+		"permisson_description" : "Refuse a delivery"
+	},
+	{
+		"id": 9,
+		"permisson_name": "insert-delivery",
+		"permisson_description": "Insert a delivery"
+	},
+    {
+		"id" : 10,
+		"permisson_name" : "load-delivery",
+		"permisson_description" : "Load a delivery"
+	},
+	{
+		"id": 11,
+		"permisson_name": "block-vehicle",
+		"permisson_description": "Block a vehicle"
+	},
+    {
+		"id" : 12,
+		"permisson_name" : "create-vehicle",
+		"permisson_description" : "Create a vehicle"
+	},
+	{
+		"id": 13,
+		"permisson_name": "edit-vehicle",
+		"permisson_description": "Edit a vehicle"
+	},
+    {
+		"id" : 14,
+		"permisson_name" : "create-user",
+		"permisson_description" : "Create a user"
+	},
+	{
+		"id": 15,
+		"permisson_name": "edit-user",
+		"permisson_description": "Edit a user"
+	},
+    {
+		"id": 16,
+		"permisson_name": "delete-user",
+		"permisson_description": "Insert a delivery"
+	},
+    {
+		"id": 17,
+		"permisson_name": "create-reports",
+		"permisson_description": "Create a report"
+	}
+
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "unit_name": "Rio Branco"
+    },
+    {
+        "id": 2,
+        "unit_name": "Maceió"
+    },
+    {
+        "id": 3,
+        "unit_name": "Macapá"
+    },
+    {
+        "id": 4,
+        "unit_name": "Manaus"
+    },
+    {
+        "id": 5,
+        "unit_name": "Salvador"
+    },
+    {
+        "id": 6,
+        "unit_name": "Fortaleza"
+    },
+    {
+        "id": 7,
+        "unit_name": "Brasília"
+    },
+    {
+        "id": 8,
+        "unit_name": "Vitória"
+    },
+    {
+        "id": 9,
+        "unit_name": "Goiânia"
+    },
+    {
+        "id": 10,
+        "unit_name": "São Luís"
+    },
+    {
+        "id": 11,
+        "unit_name": "Cuiabá"
+    },
+    {
+        "id": 12,
+        "unit_name": "Campo Grande"
+    },
+    {
+        "id": 13,
+        "unit_name": "Belo Horizonte"
+    },
+    {
+        "id": 14,
+        "unit_name": "Belém"
+    },
+    {
+        "id": 15,
+        "unit_name": "João Pessoa"
+    },
+    {
+        "id": 16,
+        "unit_name": "Curitiba"
+    },
+    {
+        "id": 17,
+        "unit_name": "Recife"
+    },
+    {
+        "id": 18,
+        "unit_name": "Teresina"
+    },
+    {
+        "id": 19,
+        "unit_name": "Rio de Janeiro"
+    },
+    {
+        "id": 20,
+        "unit_name": "Natal"
+    },
+    {
+        "id": 21,
+        "unit_name": "Porto Alegre"
+    },
+    {
+        "id": 22,
+        "unit_name": "Porto Velho"
+    },
+    {
+        "id": 23,
+        "unit_name": "Boa Vista"
+    },
+    {
+        "id": 24,
+        "unit_name": "Florianópolis"
+    },
+    {
+        "id": 25,
+        "unit_name": "São Paulo"
+    },
+    {
+        "id": 26,
+        "unit_name": "Aracaju"
+    },
+    {
+        "id": 27,
+        "unit_name": "Palmas"
+    }
+]

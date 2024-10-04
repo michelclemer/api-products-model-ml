@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    command: >
+      sh -c "./wait-for-db.sh db:5432 && alembic upgrade head && uvicorn main:app --host 0.0.0.0 --port 8000 --reload"
+    volumes:
+      - .:/app
+      - ./wait-for-db.sh:/wait-for-db.sh
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env.production
+    depends_on:
+      - db
+
+  db:
+    image: postgres:13
+    env_file:
+      - .env.production
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

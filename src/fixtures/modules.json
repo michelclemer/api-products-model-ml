@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "module_name" :"manager-routes",
+        "module_description" : "Manager routes"
+	},
+	{
+		"id" : 2,
+		"module_name" : "manager-deliveries",
+		"module_description" : "Manager deliveries"
+	},
+	{
+		"id" : 3,
+		"module_name" : "manager-veicles",
+		"module_description" : "Manager veicles"
+	},
+	{
+		"id" : 4,
+		"module_name" : "manager-users",
+		"module_description" : "Manager users"
+	},
+	{
+		"id" : 5,
+		"module_name" : "manager-reports",
+		"module_description" : "Manager reports"
+	}
+]
